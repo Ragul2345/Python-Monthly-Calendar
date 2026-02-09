@@ -4,8 +4,8 @@ A simple beginner-friendly Python script that displays a monthly calendar based 
 
 ## 🛠️ Tech Used
 
-Python
-calendar module
+* Python
+* calendar module()
 
 ## ⚙️ How It Works
 
