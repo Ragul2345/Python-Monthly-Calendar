@@ -13,13 +13,3 @@ User enters year and month
 Program generates the calendar using calendar.month()
 Displays the selected month in the terminal
 
-## 🖥️ Sample Output
-
-Enter year (e.g., 2025): 2025
-Enter month (1-12): 9
-
-Here is the calendar:
-   September 2025
-Mo Tu We Th Fr Sa Su
-1  2  3  4  5  6  7
-...
