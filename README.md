@@ -9,7 +9,5 @@ calendar module
 
 ## ⚙️ How It Works
 
-User enters year and month
-Program generates the calendar using calendar.month()
-Displays the selected month in the terminal
-
+The user enters the year and month as input. The program then generates the calendar using the calendar.month() function from Python’s calendar module. 
+Finally, the selected month’s calendar is displayed neatly in the terminal.
